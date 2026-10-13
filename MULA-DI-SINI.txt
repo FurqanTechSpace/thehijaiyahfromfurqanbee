@@ -1,0 +1,38 @@
+FURQANBEE — HONEY SUMMER / 13 OKTOBER 2026
+
+Extract All ZIP, buka folder FurqanBee-Games dan klik MULA-FURQANBEE.cmd.
+Gunakan alamat baharu yang dibuka pelancar. Jika kemas kini ditawarkan,
+tekan Muat versi baharu. Jangan buka index.html terus dari dalam ZIP.
+
+SARANG HIJAIYAH
+Jawapan kini berbentuk sarang madu; bawa huruf menggunakan senduk kayu
+ke balang madu. Pilih gerakan Jari telunjuk atau Tapak tangan.
+Kepekaan boleh diubah kepada Biasa, Peka atau Sangat peka.
+Tahan senduk sekejap pada huruf untuk mengambilnya, kemudian pada balang.
+Penjejakan dan masa tahan dilaras supaya lebih responsif.
+Kehilangan tangan tidak akan menghantar jawapan atau memberi ganjaran.
+Benarkan webcam apabila diminta. Jika pernah disekat, semak izin kamera
+pada bar alamat dan tetapan Camera Windows untuk aplikasi desktop.
+Kamera ditutup apabila keluar atau menyembunyikan tab. Tiada rakaman.
+Sentuhan atau tetikus masih boleh digunakan.
+
+AISKRIM FURQANBEE
+Mangkuk perisa dan topping kini menggunakan ilustrasi berwarna cerah.
+Tekan-tahan mesin untuk menuang; pilih topping dan sapu pada aiskrim.
+Siap! Hidangkan meraikan hasil sendiri tanpa tuntutan ganjaran madu.
+Buat semula mengosongkan kon dan taburan, termasuk selepas siap.
+
+DATA PEMAIN
+Versi ini menyimpan ganjaran dalam memori sesi sahaja. Refresh atau
+membuka semula halaman akan memulakan semula ganjaran. Tiada akaun
+atau pangkalan data pemain. Cache offline hanya menyimpan fail aplikasi.
+Hosting GitHub/Vercel tidak mengubah cara data pemain disimpan.
+Untuk simpan pada peranti yang sama, perlu tambah simpanan pelayar.
+Untuk akaun yang bersambung merentas peranti, perlu login dan database.
+
+SEMAKAN
+Lulus ujian automatik kamera sintetik, izin webcam sebelum model,
+fallback pengesan, berhenti kamera, aiskrim/reset/taburan, permainan
+memori/bunga/taman, surih semua huruf, aset dan sintaks aplikasi.
+Grafik baharu disemak melalui render SVG. Webcam fizikal, paparan penuh
+pelayar dan pemasangan pada telefon masih perlu diuji pada peranti.

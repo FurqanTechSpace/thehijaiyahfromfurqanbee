@@ -1,0 +1,4 @@
+importScripts('./vendor/vision_bundle.js');
+const {FilesetResolver,HandLandmarker}=Vision;
+let detector;
+self.onmessage=async e=>{const d=e.data;try{if(d.type==='init'){const files=await FilesetResolver.forVisionTasks(new URL('./vendor/wasm',self.location.href).href);detector=await HandLandmarker.createFromOptions(files,{baseOptions:{modelAssetPath:new URL('./vendor/hand_landmarker.task',self.location.href).href,delegate:'CPU'},runningMode:'VIDEO',numHands:1,minHandDetectionConfidence:.4,minHandPresenceConfidence:.4,minTrackingConfidence:.4});self.postMessage({type:'ready'});}else if(d.type==='frame'){try{const r=detector.detectForVideo(d.image,d.time);self.postMessage({type:'landmarks',points:r.landmarks?.[0]||null});}finally{d.image.close();}}}catch(error){self.postMessage({type:'error',message:String(error?.message||error)});}};

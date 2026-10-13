@@ -1,0 +1,24 @@
+ASSET NOTES
+Garden: assets/garden.png
+Generated with the built-in ImageGen tool, not API/CLI.
+Final prompt:
+Use case: stylized-concept. Create a polished colorful 3D storybook garden game background for FurqanBee, an Arabic letter search game for ages 3–6. Landscape 3:2 composition. Cheerful mint green rolling garden, rounded shrubs, large colorful flowers, honeycomb-shaped beehive cottage far back right, small winding sandy path, soft blue sky and puffy clouds. Toy-like soft rendered materials, playful premium children's mobile game art. Leave generous calm areas of grass and shrubs across middle and lower two-thirds where interactive hidden letters will be placed by the application. Rich detail at edges, low visual clutter in center, sunny warm lighting. No characters, no bees with faces, no text, no lettering, no numbers, no UI, no watermark. Actual environment art, not app mockup.
+
+Characters: six user-supplied MP4s converted to alpha WebM with FFmpeg.
+Foreground interior protected with a connected-background mask to preserve
+eyes and bright details. Original character appearance retained, no new
+character designs generated. PNG posters extracted from converted videos.
+Music: original simple synthesized note sequences in music.js, no recordings.
+
+NEW SEARCH ART: assets/hidden-garden.png
+Built-in ImageGen, 13 October 2026. Final prompt:
+Create a vibrant polished 3D children's hidden object game environment, landscape 3:2. A richly detailed magical garden with a winding path, colorful flowering plants, terracotta flower pots, a chunky old tree trunk on left with low branches, a tiny turquoise pond bottom right with stones, a golden honeycomb cottage top right, a small wooden bridge center, mushrooms, a watering can, a little wheelbarrow, fruit baskets, butterflies and sparkling sunlight. Saturated coral, turquoise, lime green, sunshine yellow, purple. Many distinct discoverable surfaces and objects distributed across the entire image, no empty lawn in the middle. Layered depth, crisp readable silhouettes, bright toy-like rendered art suitable for a preschool mobile hidden-object game. No people, no mascot characters, no letters, no text, no numbers, no UI. Keep all objects in frame. Intended as an interactive search scene with Arabic letters overlaid later, so provide clear patches on the tree trunk, stones, cottage wall, path, pots, bridge and watering can. Cheerful, adventurous, detailed but not photorealistic.
+
+13 October 2026: Kiko/Yuyu alpha refined with FFmpeg alpha threshold, a one-pixel edge erosion and connected-background neutral-color removal. Original uploads preserved; prior assets backed up in work/media-before-joy. Eyes and wing details checked in sampled composites; translucent wing edges remain.
+
+13 October 2026 — updated companion portraits. Built-in ImageGen edits of user files C:/Users/pc1/Downloads/3x3 character (3)/1.png and 2.png. Outputs: media/kiko-portrait.png and media/yuyu-portrait.png, RGBA with transparent background. Final prompt for each (name substituted):
+Edit target: attached [kiko/yuyu] character. Remove ONLY the white background and floor shadow to genuine transparent alpha. Preserve the exact character identity, face, pose, outfit, colors, wings and antennae and fine details. Keep the whole character and all appendages intact. No new objects, no text, no outline, no floor, no shadow. Clean transparent cutout for a children's game companion selector. Save the transparent PNG.
+
+Font: Baloo 2, Ek Type / Baloo 2 Project Authors. Original variable TTF downloaded from https://raw.githubusercontent.com/google/fonts/main/ofl/baloo2/Baloo2%5Bwght%5D.ttf. SIL OFL 1.1 included at fonts/OFL.txt. No font modification. Bowl illustrations are original CSS shapes extending the app's existing icons.
+
+Honey Summer: original code-native SVG wooden honey jar, honey dipper, six ice cream flavours and seven topping bowls in assets/summer. No third-party game artwork used.

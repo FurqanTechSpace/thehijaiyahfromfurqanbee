@@ -1,0 +1,12 @@
+FAIL UNTUK HOSTING
+
+Masukkan SELURUH kandungan folder FurqanBee-Games ke repositori GitHub:
+index.html, JS, CSS, assets, media, icons, fonts dan vendor.
+Jangan muat naik index.html sahaja. Pastikan huruf besar/kecil nama fail
+kekal sama. Jangan masukkan ZIP sebagai pengganti fail aplikasi.
+Import repositori itu ke Vercel dan gunakan folder yang mengandungi
+index.html sebagai akar projek statik. Aplikasi ini tidak memerlukan
+proses build. server.cjs dan pelancar CMD adalah untuk kegunaan PC lokal.
+
+Lihat BACA-DAHULU.txt untuk had simpanan ganjaran semasa. Hosting sahaja
+tidak menambah akaun, simpanan kekal atau sync antara peranti.
