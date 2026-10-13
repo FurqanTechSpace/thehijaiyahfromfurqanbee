@@ -1,0 +1,13 @@
+MediaPipe Tasks Vision 1.1.0
+Copyright Google LLC / MediaPipe authors. Package license: Apache-2.0.
+Full license: LICENSE-2.0.txt in this directory.
+Package source: https://registry.npmjs.org/@mediapipe/tasks-vision/-/tasks-vision-1.1.0.tgz
+Documentation: https://developers.google.com/edge/mediapipe/solutions/vision/hand_landmarker/web_js
+
+Hand Landmarker model (float16, version 1):
+https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task
+Model documentation and source terms:
+https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker
+
+All files are shipped locally. This app does not send camera frames to
+the download hosts. Camera frames are processed inside a local web worker.
